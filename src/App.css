@@ -1,14 +1,15 @@
 .App {
   text-align: center;
 }
+
 @media (max-width: 768px) {
   header{
-    
     border:1px solid black;
     padding:17px;
 
   }footer{
-    
+    display:flex;
+    justify-content: center;
     border:1px solid black;
     padding:17px;
   }.home{
@@ -18,9 +19,11 @@
   }footer a{
     border:1px solid black;
     margin: 10px;
-    /* width: 24%; */
     text-decoration:none;
     padding: 10px;
+    width :100px;
+    display: flex;
+    justify-content: center;
   }
 }
 
