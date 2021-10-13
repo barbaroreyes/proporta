@@ -17,8 +17,8 @@
      background-attachment: fixed;
 
   }img{
-    width:30% ;
-    margin-left: 70px;
+    width:16% ;
+    margin-left: 115px;
     /* margin-left: 120px; */
     /* position: relative; */
     border-radius: 40px 40px;
@@ -76,7 +76,7 @@
   }
   .front{
     display: flex;
-    /* flex-wrap: wrap; */
+    flex-wrap: wrap;
     justify-content: center;
     flex-direction: column;
     align-items: center;
