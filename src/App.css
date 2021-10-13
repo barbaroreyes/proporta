@@ -5,27 +5,29 @@
 @media (max-width: 768px) {
   header{
     display: flex;
-    justify-content: space-around;
-    flex-direction: row;
+    justify-content: center;
+    flex-direction: row-reverse;
     align-items: center;
-    /* border:1px solid black; */
     padding:10px;
-    margin: 10px;
+    /* border:1px solid black; */
+    /* padding:10px;
+    margin: 10px; */
     box-shadow: 5px 10px;
     text-shadow: 2px 1px;
 
   }img{
-    width:20% ;
-    margin-left: 120px;
-    position: relative;
+    width:30% ;
+    margin-left: 20px;
+    /* margin-left: 120px; */
+    /* position: relative; */
     /* border-radius: 10px 10px; */
   }
   footer{
-    display:flex;
+    /* display:flex;
     justify-content: center;
     border:1px solid black;
     padding:0px;
-    margin: 10px;
+    margin: 10px; */
   }.home{
     padding: 50px;
     border:1px solid black;
@@ -33,7 +35,7 @@
     box-shadow: 5px 10px;
     margin: 10px;
   }footer a{
-    /* border:1px solid black; */
+    border:1px solid black;
     margin: 10px;
     text-decoration:none;
     padding: 10px;
