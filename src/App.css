@@ -57,11 +57,11 @@
       justify-content: center;
       flex-direction: column;
       align-items: center;
-      border:2px solid black;
+      border:2px solid rgb(174, 193, 207);
       margin: 10px;
       text-decoration: none;
       border-radius: 10px 10px;
-      color: black;
+      color:white;
     }
   footer a{
     text-decoration:none;
@@ -81,12 +81,13 @@
     flex-direction: column;
     align-items: center;
     padding: 20px;
-    border: 1px solid black;
+    border:2px solid rgb(174, 193, 207);
     width: 130px;
     height: 150px;
     margin: 10px;
+    color:rgb(255, 255, 255);
   }.front a{
-    border:1px solid black;
+    border:2px solid rgb(174, 193, 207);
     margin: 10px;
     text-decoration:none;
     padding: 1px;
@@ -94,6 +95,7 @@
     display: flex;
     justify-content: center;
     border-radius: 10px 10px;
+    color:white;
   }
   
 }
