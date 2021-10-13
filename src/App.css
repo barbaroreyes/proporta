@@ -76,14 +76,14 @@
   }
   .front{
     display: flex;
-    flex-wrap: wrap;
+    /* flex-wrap: wrap; */
     justify-content: center;
     flex-direction: column;
     align-items: center;
     padding: 20px;
     border:2px solid rgb(174, 193, 207);
-    width: 130px;
-    height: 150px;
+    width: 100px;
+    height: 100px;
     margin: 10px;
     color:rgb(255, 255, 255);
   }.front a{
