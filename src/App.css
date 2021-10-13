@@ -8,7 +8,7 @@
     justify-content: center;
     flex-direction: row-reverse;
     align-items: center;
-    padding:10px;
+    padding:auto;
     margin: 10px;
     /* border:1px solid black; */
     /* padding:10px;
@@ -29,6 +29,7 @@
     border:1px solid black;
     padding:0px;
     margin: 10px;
+    box-shadow: 5px 10px;
   }.home{
     padding: 50px;
     border:1px solid black;
@@ -36,13 +37,14 @@
     box-shadow: 5px 10px;
     margin: 10px;
   }footer a{
-    border:1px solid black;
+    /* border:1px solid black; */
     /* margin: 10px; */
     text-decoration:none;
-    padding: 10px;
+    /* padding: 10px; */
     width :80px;
     display: flex;
     justify-content: center;
+    color: black;
   }.portafolio{
     display: flex;
     justify-content: center;
