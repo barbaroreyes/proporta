@@ -14,8 +14,13 @@
   }.home{
     padding: 50px;
     border:1px solid black;
-    
     height: 600px;
+  }footer a{
+    border:1px solid black;
+    margin: 10px;
+    /* width: 24%; */
+    text-decoration:none;
+    padding: 10px;
   }
 }
 
