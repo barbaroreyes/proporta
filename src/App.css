@@ -1,8 +1,25 @@
 .App {
   text-align: center;
 }
+@media (max-width: 768px) {
+  header{
+    
+    border:1px solid black;
+    padding:17px;
 
-.App-logo {
+  }footer{
+    
+    border:1px solid black;
+    padding:17px;
+  }.home{
+    padding: 50px;
+    border:1px solid black;
+    
+    height: 600px;
+  }
+}
+
+/* .App-logo {
   height: 40vmin;
   pointer-events: none;
 }
@@ -35,4 +52,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */
