@@ -1,0 +1,9 @@
+type ProjectPro @model {
+  id: ID!
+  name: String
+  github: String
+  app : String
+  image: String
+  skills: String
+
+}
