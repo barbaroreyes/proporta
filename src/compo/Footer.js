@@ -6,6 +6,7 @@ const Footer = () => {
       <Link  to='/'>Home</Link>
       <Link to='/portafolio'>Portafolio</Link>
       <Link to='/contact'>Contact</Link>
+      <Link to='/about'>About</Link>
     </footer>
   );
 }

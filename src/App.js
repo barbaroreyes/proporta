@@ -37,7 +37,7 @@ function App() {
       <Home
       product={product}
       />
-      {/* <Footer/> */}
+      <Footer/>
     </div>
   );
 }

@@ -9,6 +9,7 @@
     flex-direction: row-reverse;
     align-items: center;
     padding:10px;
+    margin: 10px;
     /* border:1px solid black; */
     /* padding:10px;
     margin: 10px; */
@@ -23,11 +24,11 @@
     /* border-radius: 10px 10px; */
   }
   footer{
-    /* display:flex;
+    display:flex;
     justify-content: center;
     border:1px solid black;
     padding:0px;
-    margin: 10px; */
+    margin: 10px;
   }.home{
     padding: 50px;
     border:1px solid black;
@@ -36,10 +37,10 @@
     margin: 10px;
   }footer a{
     border:1px solid black;
-    margin: 10px;
+    /* margin: 10px; */
     text-decoration:none;
     padding: 10px;
-    width :100px;
+    width :80px;
     display: flex;
     justify-content: center;
   }.portafolio{
