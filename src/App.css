@@ -11,7 +11,7 @@
     display:flex;
     justify-content: center;
     border:1px solid black;
-    padding:17px;
+    padding:7px;
   }.home{
     padding: 50px;
     border:1px solid black;
@@ -39,7 +39,16 @@
     width: 100px;
     height: 100px;
     margin: 10px;
-  }.back{
+  }.front a{
+    border:1px solid black;
+    margin: 10px;
+    text-decoration:none;
+    padding: 10px;
+    width :100px;
+    display: flex;
+    justify-content: center;
+  }
+  .back{
     display: flex;
     justify-content: center;
     flex-direction: column;
