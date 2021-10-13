@@ -5,7 +5,7 @@ const Header = () => {
   return (
     <header>
        <img  src ={Picture}  alt ='phot'/>
-      Barbaro Reyes
+      <span>Barbaro Reyes</span>
      </header>
   );
 }
