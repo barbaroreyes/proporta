@@ -10,20 +10,22 @@
   width: 14%;
   border-radius: 183px 187px;
   margin-left: 115px;
-  box-shadow: 5px 1px;
+  box-shadow: 20px 5px;
   
   /* padding: 21px; */
   
 
 }span{
+  text-transform: uppercase;
   padding: 34px;
   display: flex;
   justify-content: center;
   flex-direction: column;
   align-items: center;
-  border:1px solid black;
-  text-decoration: double;
-  margin: 10px;
+  /* border:1px solid black; */
+  /* text-decoration: double; */
+  margin: 40px;
+  font-size: 39px;
 }
 
 @media (max-width: 768px) {
@@ -39,11 +41,14 @@
     background-color:#E4DAC5; 
 
   }span{
+    
+    font-size:15px;
     border: none;
   }
   img{
     width:18% ;
-    margin-left: 80px;
+    margin-left: 0px;
+    box-shadow: 5px 1px;
     /* margin-left: 120px; */
     /* position: relative; */
     /* border-radius: 10px 10px; */
