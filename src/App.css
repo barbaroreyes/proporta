@@ -10,7 +10,7 @@
   width: 14%;
   border-radius: 183px 187px;
   margin-left: 115px;
-  box-shadow: 24px 3px;
+  box-shadow: 5px 1px;
   
   /* padding: 21px; */
   
@@ -42,11 +42,11 @@
     border: none;
   }
   img{
-    width:22% ;
-    margin-left: 115px;
+    width:18% ;
+    margin-left: 80px;
     /* margin-left: 120px; */
     /* position: relative; */
-    border-radius: 40px 40px;
+    /* border-radius: 10px 10px; */
 
   }
   footer{
