@@ -21,8 +21,6 @@
   justify-content: center;
   flex-direction: column;
   align-items: center;
-  /* border:1px solid black; */
-  /* text-decoration: double; */
   margin: 40px;
   font-size: 39px;
 }
@@ -40,7 +38,6 @@
     background-color:#E4DAC5; 
 
   }span{
-    
     font-size:15px;
     border: none;
   }
@@ -104,8 +101,6 @@
   .front{
     display: flex;
     flex-wrap: wrap;
-    /* justify-content: center;
-    flex-direction: column; */
     align-items: center;
     padding: 20px;
     border:2px solid rgb(174, 193, 207);
