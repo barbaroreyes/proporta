@@ -45,7 +45,8 @@
     width:18% ;
     margin-left: 0px;
     box-shadow: 5px 1px;
-    
+    opacity: 1;
+    /* transition: all 05 ease-in-out; */
   }
   footer{
     display:flex;
@@ -93,7 +94,8 @@
     display: flex;
     justify-content: center;
     color: black;
-  }.portafolio{
+  }
+  .portafolio{
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
@@ -125,7 +127,11 @@
   header{
     background-color: red;
   }img{
-    padding: 21px
+    width: 25%;
+    border-radius: 183px 187px;
+    margin-left: 115px;
+    box-shadow: 20px 5px;
+    padding: 7px;
   }
 }
 
