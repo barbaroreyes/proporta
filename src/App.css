@@ -49,10 +49,7 @@
     width:18% ;
     margin-left: 0px;
     box-shadow: 5px 1px;
-    /* margin-left: 120px; */
-    /* position: relative; */
-    /* border-radius: 10px 10px; */
-
+    
   }
   footer{
     display:flex;
@@ -134,7 +131,7 @@
   header{
     background-color: red;
   }img{
-    padding:
+    padding: 21px
   }
 }
 
