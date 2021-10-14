@@ -69,7 +69,7 @@
     justify-content: center;
     flex-direction: column;
     align-items: center;
-    /* padding: 50px; */
+    padding: 50px;
     border:1px solid black;
     height: auto;
     box-shadow: 5px 10px;
@@ -108,8 +108,8 @@
   .front{
     display: flex;
     flex-wrap: wrap;
-    justify-content: center;
-    flex-direction: column;
+    /* justify-content: center;
+    flex-direction: column; */
     align-items: center;
     padding: 20px;
     border:2px solid rgb(174, 193, 207);
